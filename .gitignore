@@ -1,4 +1,7 @@
 # Local .terraform directories
+cdktf.out/
+node_modules/
+.gen/
 **/.terraform/*
 
 # .tfstate files
